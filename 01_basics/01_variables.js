@@ -1,3 +1,10 @@
+
+const accountId = 2554
+let accountEmail = "pallavi2021@gmail.com"
+var accoutPassword = "login@pal"
+accountCity = "Jaipur"
+accountId = 2
+console.log("accountId")
 const accountId = 2554
 let accountEmail = "pallavi2021@gmail.com"
 var accoutPassword = "login@pal"
